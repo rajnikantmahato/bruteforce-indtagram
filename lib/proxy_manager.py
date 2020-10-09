@@ -1,6 +1,4 @@
-# Date: 12/28/2018
-# Author: Mohamed
-# Description: Proxy manager
+
 
 from time import sleep
 from queue import Queue
