@@ -1,6 +1,3 @@
-# Date: 12/28/2018
-# Author: Mohamed
-# Description: Browser
 
 from time import time
 from requests import Session
