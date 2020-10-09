@@ -1,6 +1,3 @@
-# Date: 05/05/2018
-# Author: Mohamed
-# Description: Session Handler
 
 import json
 import sqlite3
