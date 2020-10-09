@@ -1,6 +1,3 @@
-# Date: 12/28/2018
-# Author: Mohamed
-# Description: Password manager
 
 from time import sleep
 from hashlib import sha256
