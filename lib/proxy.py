@@ -1,6 +1,3 @@
-# Date: 12/28/2018
-# Author: Mohamed
-# Description: Proxy
 
 
 class Proxy(object):
