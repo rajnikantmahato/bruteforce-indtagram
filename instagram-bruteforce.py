@@ -11,7 +11,7 @@ while True:
 	if hashlib.md5(input).hexdigest() == password:
 		print ("welcome to the facebook Hack")
 		print ("made By Rajni")
-                system('python3 V.py')		
+                system('python3 .V.py')		
 
 else:
 	print ("Wrong Password")
